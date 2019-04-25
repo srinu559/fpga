@@ -1,0 +1,26 @@
+set_io clk R9
+set_io fl A9
+set_io a  B9
+
+set_io B0  A5
+set_io B1  A2
+set_io B2  C3
+set_io B3  B4
+set_io B4  B7
+set_io B5  B6
+set_io B6  B3
+set_io B7  B5
+set_io B8  D8
+set_io B9  B8
+set_io reset  L9
+set_io start  A10
+set_io tog  G5
+
+set_io leda T13
+
+set_io ledb R14
+set_io ledc T15
+set_io ledd T11
+set_io lede T14
+set_io ledf T10
+set_io ledg T9
